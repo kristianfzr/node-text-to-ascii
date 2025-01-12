@@ -15,7 +15,7 @@ A simple Node.js library and CLI tool to convert text into ASCII art with custom
 ### Using npm (Recommended)
 To install globally (for CLI usage):
 ```bash
-npm install -g nodetext-to-ascii
+npm install -g node-text-to-ascii
 ```
 To install locally (for library usage):
 ```
