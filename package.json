@@ -1,6 +1,6 @@
 {
   "name": "node-text-to-ascii",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node text to ascii cli tool.",
   "main": "index.js",
   "bin": {
@@ -11,5 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "figlet": "^1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristianfzr/node-text-to-ascii.git"
   }
 }
