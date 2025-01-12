@@ -1,6 +1,6 @@
 {
   "name": "node-text-to-ascii",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node text to ascii cli tool.",
   "main": "index.js",
   "bin": {
