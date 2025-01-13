@@ -48,7 +48,7 @@ You can use this package programmatically in your Node.js applications.
 
 ### Import and Use
 ```
-const textToAscii = require("text-to-ascii");
+const textToAscii = require("node-text-to-ascii");
 
 // Convert text to ASCII art
 textToAscii("Hello, World!", "Standard")
